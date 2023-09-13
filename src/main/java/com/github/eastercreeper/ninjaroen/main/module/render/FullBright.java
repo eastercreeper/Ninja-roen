@@ -4,7 +4,7 @@ import com.github.eastercreeper.ninjaroen.main.module.Category;
 import com.github.eastercreeper.ninjaroen.main.module.Module;
 
 public class FullBright extends Module {
-    private float defGamma
+    private float defGamma;
     public FullBright(String name, String description, boolean detectable, boolean toggled, Category category) {
         super("FullBright", "Lights up everyrthing", false, false, Category.RENDER);
     }
