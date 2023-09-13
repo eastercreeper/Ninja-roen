@@ -1,14 +1,14 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
-    "version": "${version}",
+    "name": "Roen Ghost Client",
+    "description": "Roen hacs",
+    "version": "B1",
     "mcversion": "${mcversion}",
-    "url": "https://github.com/romangraef/Forge1.8.9Template/",
+    "url": "",
     "updateUrl": "",
     "authorList": [
-      "You"
+      "Nate"
     ],
     "credits": "",
     "logoFile": "",
